@@ -20,7 +20,7 @@ But wait!  How are forks different from branches?  It's true that these are very
 * Forks allow different github users to store their own copy of an entire GitHub repository and work on the project without effecting the main repository.
 * Branches allow one user to make changes in their repository (fork) without effecting the master branch.
 
-So a simple way to understand the difference at first is that forks have the same purpose as branches, but at a higher level.  This will take some practice to really wrap your head around and that's totally normal!
+So a simple way to understand the difference at first is that forks have the same purpose as branches, but at a higher level.  This will take some practice to really wrap your head around and that's totally normal! The funny thing is that I get more confused on the later part!
 
 
 ---

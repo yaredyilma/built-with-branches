@@ -6,7 +6,7 @@ This is a simple little website to practice using git branches and incremental d
 
 > these changes were made on ```master``` before merging ```main-text```
 
-Can you replicate it exactly?  Not just the code, but the branches and commits!
+Can you replicate it exactly?  Not just the code, but the branches and commits!Exactly no. But I will try to amend parts of it.
 
 Learning to create and merge branches is only the beginning.  The trickier and more important skill is lining up your branches with the steps of incremental development.
 

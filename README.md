@@ -2,7 +2,7 @@
 
 > these changes were made on ```master``` before merging ```header-footer```
 
-This is a simple little website to practice using git branches and incremental development.
+This is a simple little website to practice using git branches and incremental development.Not really simple website!
 
 > these changes were made on ```master``` before merging ```main-text```
 
@@ -12,7 +12,7 @@ Learning to create and merge branches is only the beginning.  The trickier and m
 
 > these changes were made on ```master``` before merging ```interesting-links```
 
-If you're having trouble visualizing the branches in this repository, try taking a look at [the network visualization](https://help.github.com/en/articles/viewing-a-repositorys-network) in the "insights" tab.
+If you're having trouble visualizing the branches in this repository, try taking a look at [the network visualization](https://help.github.com/en/articles/viewing-a-repositorys-network) in the "insights" tab. *This part helped me*
 
 > these changes were made on ```master``` after merging ```aside-info```
 
